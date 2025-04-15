@@ -35,6 +35,26 @@ $fruits = [
 
 ![image1](images/image1.png)
 
+### CSS
+
+```css
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 1em;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+```
+
 ---
 
 ## No 2: fruits2.php
