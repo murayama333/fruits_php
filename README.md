@@ -6,7 +6,7 @@
 
 ```php
 <?php
-// フルーツのデータ（A〜Zの果物、各種プロパティ付き）
+// フルーツのデータ
 $fruits = [
     ['id' => 1, 'name' => 'Apple', 'price' => 150, 'color' => 'Red'],
     ['id' => 2, 'name' => 'Banana', 'price' => 100, 'color' => 'Yellow'],
