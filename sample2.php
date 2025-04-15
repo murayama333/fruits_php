@@ -32,24 +32,7 @@ $fruits = [
 <head>
     <meta charset="UTF-8">
     <title>Fruits Search</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 60%;
-            margin-top: 1em;
-        }
-
-        th,
-        td {
-            border: 1px solid #ccc;
-            padding: 0.5em;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f4f4f4;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
